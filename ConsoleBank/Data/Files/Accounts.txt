@@ -1,0 +1,12 @@
+[
+  {
+    "AccountBalance": 1000.0,
+    "AccountNumber": "5312992353",
+    "FirstName": "Victor",
+    "LastName": "Ndulue",
+    "DateCreated": "2023-07-25",
+    "NIN": "123456789",
+    "IsSavings": true,
+    "IsCurrent": false
+  }
+]
